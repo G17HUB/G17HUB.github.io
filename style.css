@@ -1,0 +1,105 @@
+body {
+	background-image: url("http://img2.wikia.nocookie.net/__cb20130507081729/gtawiki/images/4/4e/BackgroundGTAEN.png");
+	background-repeat: repeat-x repeat-y;
+	text-align: center;
+}
+
+img {
+    opacity: 1.0;
+}
+
+img:hover {
+    opacity: 0.8;
+}
+
+h1 {
+	clear: left;
+	color: #6F92A5;
+	font-family:'Sigmar One', cursive;
+	border-left: 60px;
+	border-right: 60px;
+	border-top: 25px;
+	border-bottom: 25px;
+	margin-left: 0;
+	padding-left: 0;
+	background-image: url("http://i58.tinypic.com/73jrpl.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+	background-position: center;
+}
+
+h2 {
+	font-family: 'Patua One', cursive;
+} 
+
+h3, h4 {
+	font-family: 'Righteous', cursive;
+}
+
+p {
+	font-family: 'EB Garamond', serif;
+	font-size: 110%
+}
+
+ul {
+	padding: 0;
+	margin: 0;
+    list-style-type: none;
+	width: 100%;
+}
+
+nav a {
+	float: left;
+	text-decoration: none;
+    text-transform: uppercase;
+    display: block;
+    width: 120x;
+    color: #FFFFFF;
+    background-color: #7095A8;
+    text-align: center;
+    padding: 4px;
+	border-right: 1px solid #FFFFFF;
+}
+
+nav a:hover{
+	color: black;
+	background-image: url("http://25.media.tumblr.com/207e27d34ef511d8c05b5ee42c0b8570/tumblr_mg20sqTRmr1rjh6czo1_r2_500.gif");
+	font-size: 110%;
+	background-size: 100%
+}
+
+nav ul li {
+	display: inline;
+}
+
+nav ul {
+	margin-left: 560px;
+	border-width: 100%;
+	padding-left: 0;
+	float: left;
+}
+
+.sky {
+	color: #DAF7F3;
+}
+
+.lsky {
+	color: #CAF1F0;
+}
+
+.dbuilding {
+	color: #7095A8;
+}
+
+.lbuilding {
+	color: #A7D2C9;
+}
+
+.mill {
+	color: #5f6f68;
+}
+
+.unique {
+	color: #0b1f2b;
+	font-size: 110%
+}
