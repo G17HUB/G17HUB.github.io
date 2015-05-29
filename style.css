@@ -1,5 +1,6 @@
 body {
 	background-image: url("http://img2.wikia.nocookie.net/__cb20130507081729/gtawiki/images/4/4e/BackgroundGTAEN.png");
+	background-repeat: repeat-y;
 	text-align: center;
 }
 
