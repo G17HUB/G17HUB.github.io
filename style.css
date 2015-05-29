@@ -48,7 +48,7 @@ ul {
 }
 
 nav {
-	margin-left: 33%
+	margin-left: 26%
 }
 
 nav a {
@@ -56,6 +56,7 @@ nav a {
 	text-decoration: none;
     text-transform: uppercase;
     display: block;
+    width: 120px;
     color: #FFFFFF;
     background-color: #7095A8;
     text-align: center;
