@@ -48,6 +48,10 @@ ul {
 	width: 100%;
 }
 
+nav {
+	margin-left: 33%
+}
+
 nav a {
 	float: left;
 	text-decoration: none;
@@ -73,7 +77,6 @@ nav ul li {
 }
 
 nav ul {
-	margin-left: 560px;
 	border-width: 100%;
 	padding-left: 0;
 	float: left;
